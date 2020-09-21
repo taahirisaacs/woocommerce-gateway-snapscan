@@ -1,0 +1,15 @@
+{
+    "name": "taahirisaacs/woocommerce-gateway-snapscan",
+    "description": "SnapScan allows South African customers to check out quicker and more securely with a scan or tap via card details stored on their phone.",
+    "homepage": "https://github.com/taahir/products/woocommerce-gateway-snapscan/",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "require": {
+        "php": ">=7.1"
+    },
+    "archive": {
+        "exclude": [
+            "!/assets"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+*** WooCommerce Gateway SnapScan Changelog ***
+
+2020-08-19 - version 1.1.10
+* Tweak - WordPress 5.5 compatibility.
+
+2020-06-10 - version 1.1.9
+* Tweak - WC 4.2 compatibility.
+
+2020-04-30 - version 1.1.8
+* Tweak - WC 4.1 compatibility.
+
+2020-01-13 - version 1.1.7
+* Tweak - WC 3.9 compatibility.
+
+2019-11-05 - version 1.1.6
+* Tweak - WC 3.8 compatibility.
+
+2019-08-08 - version 1.1.5
+* Tweak - WC 3.7 compatibility.
+
+2019-04-16 - version 1.1.4
+* Tweak - WC 3.6 compatibility.
+
+2019-01-07 - version 1.1.3
+* Fix    - Conflict with jetpack stripping query parameters from QR code image url.
+* Update - WC 3.5 compatibility.
+
+2018-05-22 - version 1.1.2
+* Update - Privacy policy notification.
+* Update - WC 3.4 compatibility.
+
+2017-12-14 - version 1.1.1
+ * Updates the headers to indicate WooCommerce 3.3 compatibilty.
+
+2017-12-08 - version 1.1.0
+ * New - Integrates logging for errors triggered on checkout.
+ * Fix - Corrects typos in WP Admin when directing the merchant to adjust their store base country.
+
+2016.01.27 - version 1.0.1
+ * Ensures the 'woo-includes' directory is referenced correctly.
+   woocommerce-gateway-snapscan.php
+
+2015.12.10 - version 1.0.0
+ * First Release
